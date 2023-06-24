@@ -1,4 +1,5 @@
 # clone-tabnews
-Implementação do https://www.tabnews.com.br/
 
-Colocando em prática o que estou aprendendo no curso do Filipe Deschamps. `curso.dev`
+Implementaï¿½ï¿½o do https://www.tabnews.com.br/
+
+Colocando em prï¿½tica o que estou aprendendo no curso do Filipe Deschamps. `curso.dev`
